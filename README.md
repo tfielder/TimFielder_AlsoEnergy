@@ -5,10 +5,6 @@
 ## Solutions created by: Tim Fielder
 ## Date: 03.28.2019
 
-## To get started:
-### Challenge 1.
-Open up index.html in your favorite browser.
-
 # Original Coding Challenge Instructions
 - Clone this repo to your local machine
 - Use it to create a new repo on GitHub under your own account (please don't use GitHub fork to accomplish this)
